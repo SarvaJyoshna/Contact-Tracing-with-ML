@@ -1,4 +1,4 @@
-# Contact-Tracing-With-machine-learning-
+# Contact-Tracing-with-ML
 
 This project in ‘Python’, “Contact Tracing with Machine Learning”. this is 
 unsupervised machine learning. Contact tracing is the name of the process used to 
